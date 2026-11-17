@@ -1,0 +1,18 @@
+# simulator output
+sim/*.log
+sim/work/
+sim/transcript
+sim/*.ucdb
+sim/*.wlf
+sim/xcelium.d/
+sim/xrun.*
+sim/waves*.shm/
+sim/cov_work/
+sim/cov_html/
+sim/merged*
+sim/simv*
+sim/csrc/
+sim/*.vdb
+sim/obj_dir/
+sim/*.key
+*.history
